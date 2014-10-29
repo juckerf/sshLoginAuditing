@@ -1,4 +1,4 @@
-s# SSH Login Auditing
+# SSH Login Auditing
 ## Introduction
 The purpose of this tool is, to collect ssh-logins over several Linux/Unix servers and show them in a nice web-gui.
 So in case of some investigation it's easier to detect patterns also over multiple servers.
