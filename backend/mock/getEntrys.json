@@ -1,0 +1,79 @@
+{ "entries": [
+	{
+		"date": "2014-10-24",
+		"time": "09:25:45",
+		"server": "LXSRV051",
+		"sessionId": "",
+		"loginType": "publickey",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "RSA",
+		"pubkey": "b5:ec:1b:46:b1:75:92:f3:2c:7a:5e:8c:14:52:55:b1"
+	},
+	{
+		"date": "2014-10-24",
+		"time": "09:12:35",
+		"server": "192.168.13.51",
+		"sessionId": "",
+		"loginType": "keyboard-interactive/pam",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "",
+		"pubkey": ""
+	},
+	{
+		"date": "2014-10-24", 
+		"time": "09:10:34",
+		"server": "192.168.13.51",
+		"sessionId": "",
+		"loginType": "publickey",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "RSA",
+		"pubkey": "b5:ec:1b:46:b1:75:92:f3:2c:7a:5e:8c:14:52:55:b1"
+	},
+	{
+		"date": "2014-10-23",
+		"time": "17:21:11",
+		"server": "192.168.13.51",
+		"sessionId": "",
+		"loginType": "publickey",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "RSA",
+		"pubkey": "b5:ec:1b:46:b1:75:92:f3:2c:7a:5e:8c:14:52:55:b1"
+	},
+	{
+		"date": "2014-10-23",
+		"time": "17:20:53",
+		"server": "192.168.13.51",
+		"sessionId": "",
+		"loginType": "publickey",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "RSA",
+		"pubkey": "b5:ec:1b:46:b1:75:92:f3:2c:7a:5e:8c:14:52:55:b1"
+	},
+	{
+		"date": "2014-10-22",
+		"time": "14:41:21",
+		"server": "192.168.13.51",
+		"sessionId": "",
+		"loginType": "publickey",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "RSA",
+		"pubkey": "bd:c8:d2:fb:04:7d:4f:c7:f9:d7:69:15:bb:39:89:32"
+	},
+	{ 
+		"date": "2014-10-22",
+		"time": "14:40:40",
+		"server": "192.168.13.51",
+		"sessionId": "",
+		"loginType": "keyboard-interactive/pam",
+		"user": "root",
+		"sourceIp": "",
+		"pubkeyType": "",
+		"pubkey": ""
+	}
+]}		
